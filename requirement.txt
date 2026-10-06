@@ -1,0 +1,6 @@
+ollama
+pandas
+numpy
+streamlit
+requests
+python-dateutil
